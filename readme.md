@@ -36,5 +36,8 @@ node .
 ## Usage
 ~~To find out more about using this web app, please refer to [user guide](/docs/Usage.md).~~ **todo**
 
+## Notes
+- Bakcend API on github is not updated so to make it work with this frontend you need to add user roles to the JWT token.
+
 ## License
 [MIT](/LICENSE)
